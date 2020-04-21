@@ -1,0 +1,96 @@
+body {
+    background-color: lightgray;
+}
+ * {
+    box-sizing: border-box;
+ }
+.big-blue-header {
+    height: 300px;
+    width: 850px;
+    background-color: rgb(48, 61, 114);
+    margin: 0 auto;
+    border: 10px solid rgb(48, 61, 114);
+}
+.navbar {
+    width: 800px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: white;
+    list-style: none;
+    padding-top: 20px; 
+}
+.button-group {
+    float: right;
+}
+.profile-photo {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 1.75%;
+    background-color: rgb(48, 61, 114);
+    position: relative;
+    top: 125px;
+    left: 10px;
+}
+ul#horizontal-list li {
+    display: inline;
+    position: relative;
+    left: 150px;
+    bottom: 20px;
+    margin-left: 15px; 
+}
+main {
+    border: 1px dotted black;
+    height: 2000px;
+    width: 850px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.column-left {
+    width: 328px;
+    height: 2000px;
+    float: left;
+}
+.column-right{
+    width: 512px;
+    height:2000px;
+    float: right;
+}
+.card1-left {
+    width: 300px;
+    background-color: white;
+    border-radius: 1.75%;
+    padding-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.card1-left h2 {
+    border-top: 1px solid lightgray;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.about-section {
+    border-bottom: 1px solid lightgray;
+}
+.card1-right {
+    background-color: white;
+    height: 300px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+.small-box {
+    background-color: blue;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.big-box {
+
+}
+.right-card-desc {
+    
+}
