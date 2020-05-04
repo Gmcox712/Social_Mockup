@@ -1,2 +1,4 @@
 [0420/085651.881:ERROR:crash_report_database_win.cc(428)] unexpected header
 [0420/130229.717:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0421/190246.389:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0504/072628.229:ERROR:crash_report_database_win.cc(469)] failed to stat report
